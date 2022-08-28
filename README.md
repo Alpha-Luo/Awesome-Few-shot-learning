@@ -6,7 +6,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning comp
 
 ## Table of Contents
 
-- [Type](#Type)
+- [Type](#Type of Few-shot learning)
 
 - [2022 Venues](#2022)
 
@@ -18,7 +18,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning comp
 
 - [2018 Venues](#2018)
 
-### Type 
+### Type of Few-shot learning
 
 | Type        | `C`            | `D`            | `S`            | `G`            | `Other`   |         
 |:----------- |:--------------:|:--------------:|:-----------:|:-----------:|:-----------:|
