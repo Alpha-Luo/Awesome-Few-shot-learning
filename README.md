@@ -27,6 +27,11 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |:----------- |:--------------:|:--------------:|:-----------:|:-----------:|:-----------:|
 | Explanation | Classification | Detection | Segementation | Generate |Other |
 
+| Method Type | `A`            | `M`            | `Other`   |         
+|:----------- |:--------------:|:--------------:|:-----------:|
+| Explanation | Data augmentation | Meta-learning |Other |
+
+
 ### 2022
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
@@ -87,8 +92,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2018
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-
-
+| [Low-shot learning with large-scale diffusion](https://openaccess.thecvf.com/content_CVPR_2018/papers/Douze_Low-Shot_Learning_With_CVPR_2018_paper.pdf)                                                                                                                                                                                                         | CVPR                | `Other-A`     | -                                                                                            |
 
 ### 2017
 | Title                                                                                                                            | Source| Type    | Code |
