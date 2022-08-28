@@ -88,7 +88,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2018
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Low-shot learning with large-scale diffusion](https://openaccess.thecvf.com/content_CVPR_2018/papers/Douze_Low-Shot_Learning_With_CVPR_2018_paper.pdf)                                                                                                                                                                                                         | CVPR                | `G`     | -                                                                                            |
+| [Low-shot learning with large-scale diffusion](https://openaccess.thecvf.com/content_cvpr_2018/papers/Douze_Low-Shot_Learning_With_CVPR_2018_paper.pdf)                                                                                                                                                                                                         | CVPR                | `G`     | -                                                                                            |
 
 ### 2017
 | Title                                                                                                                            | Source| Type    | Code |
