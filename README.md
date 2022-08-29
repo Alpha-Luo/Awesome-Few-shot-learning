@@ -61,7 +61,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf)            | CVPR                | `S`     | -                                                                                            |
 | [Learning Non-target Knowledge for Few-shot Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Non-Target_Knowledge_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf)            | CVPR                | `S`     | [Pytorch](https://github.com/LIUYUANWEI98/NERTNet)                                                                                           |
 | [Learning To Affiliate: Mutual Centralized Learning for Few-Shot Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_To_Affiliate_Mutual_Centralized_Learning_for_Few-Shot_Classification_CVPR_2022_paper.pdf)            | CVPR                | `C`     | [Pytorch](https://github.com/LouieYang/MCL)                                                                                           |
- 
+| [SCHA-VAE: Hierarchical Context Aggregation for Few-Shot Generation](https://proceedings.mlr.press/v162/giannone22a/giannone22a.pdf)            | CVPR                | `G`     | -                                                                                         |
+
  
  
 ### 2021
