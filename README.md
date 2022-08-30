@@ -79,7 +79,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Few-shot Image Classification: Just Use a Library of Pre-trained Feature Extractors and a Simple Classifier](https://openaccess.thecvf.com/content/ICCV2021/papers/Chowdhury_Few-Shot_Image_Classification_Just_Use_a_Library_of_Pre-Trained_Feature_ICCV_2021_paper.pdf) | ICCV|`C`| [Pytorch](https://github.com/arjish/PreTrainedFullLibrary_FewShot)|
 |[GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)|ICML|`C`  |-|
 |[Parameterless Transductive Feature Re-representation for Few-Shot Learning](http://proceedings.mlr.press/v139/cui21a/cui21a.pdf)|ICML|`C`|-|
-|[Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classifcation](http://proceedings.mlr.press/v139/lee21d/lee21d.pdf)|ICML|`C`|-|
+|[Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classifcation](http://proceedings.mlr.press/v139/lee21d/lee21d.pdf)|ICML|`C`|[tensorflow](https://github.com/movinghoon/ESFR)|
 
 
 
