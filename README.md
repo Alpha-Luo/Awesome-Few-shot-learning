@@ -78,8 +78,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf) | ICCV| `C`| [Pytorch](https://github.com/ZhiGaomcislab/CurvatureGeneration_FSL)
 |[Few-shot Image Classification: Just Use a Library of Pre-trained Feature Extractors and a Simple Classifier](https://openaccess.thecvf.com/content/ICCV2021/papers/Chowdhury_Few-Shot_Image_Classification_Just_Use_a_Library_of_Pre-Trained_Feature_ICCV_2021_paper.pdf) | ICCV|`C`| [Pytorch](https://github.com/arjish/PreTrainedFullLibrary_FewShot)|
 |[GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)|ICML|`C`  |-|
-|[Parameterless Transductive Feature Re-representation for Few-Shot Learning](http://proceedings.mlr.press/v139/cui21a/cui21a.pdf)|ICML|'C'|-|
-|[Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classifcation](http://proceedings.mlr.press/v139/lee21d/lee21d.pdf)|ICML|'C'|-|
+|[Parameterless Transductive Feature Re-representation for Few-Shot Learning](http://proceedings.mlr.press/v139/cui21a/cui21a.pdf)|ICML|`C`|-|
+|[Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classifcation](http://proceedings.mlr.press/v139/lee21d/lee21d.pdf)|ICML|`C`|-|
 
 
 
@@ -87,7 +87,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) |CVPR               | `C`     |-                                                                                          |
-|[Transductive Information Maximization For Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/196f5641aa9dc87067da4ff90fd81e7b Paper.pdf)|NIPS|'C'|-|
+|[Transductive Information Maximization For Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/196f5641aa9dc87067da4ff90fd81e7b Paper.pdf)|NIPS|`C`|-|
 
 
 
