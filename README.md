@@ -86,8 +86,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2020
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-| [Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) |CVPR               | `C`     |-                                                                                          |
-|[Transductive Information Maximization For Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/196f5641aa9dc87067da4ff90fd81e7b-Paper.pdf)|NIPS|`C`|-|
+| [Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) |CVPR               | `C`     |-   |
+|[Transductive Information Maximization For Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/196f5641aa9dc87067da4ff90fd81e7b-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/mboudiaf/TIM)|
 
 
 
