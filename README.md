@@ -80,7 +80,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning](http://proceedings.mlr.press/v139/achituve21a/achituve21a.pdf)|ICML|`C`  |-|
 |[Parameterless Transductive Feature Re-representation for Few-Shot Learning](http://proceedings.mlr.press/v139/cui21a/cui21a.pdf)|ICML|`C`|-|
 |[Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classifcation](http://proceedings.mlr.press/v139/lee21d/lee21d.pdf)|ICML|`C`|[tensorflow](https://github.com/movinghoon/ESFR)|
-
+|[Few-shot Conformal Prediction with Auxiliary Tasks](http://proceedings.mlr.press/v139/fisch21a/fisch21a.pdf)|ICML|`C`|[code](https://github.com/ajfisch/few-shot-cp)|
+|[Learning a Universal Template for Few-shot Dataset Generalization](http://proceedings.mlr.press/v139/triantafillou21a/triantafillou21a.pdf)|ICML|`G`|[tensorflow](https://github.com/google-research/meta-dataset)|
+|[Addressing Catastrophic Forgetting in Few-Shot Problems](http://proceedings.mlr.press/v139/yap21a/yap21a.pdf)|ICML|`C`|[pytorch](https://github.com/pauchingyap/boml)|
 
 
 ### 2020
