@@ -91,6 +91,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | [Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) |CVPR               | `C`     |-   |
 |[Transductive Information Maximization For Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/196f5641aa9dc87067da4ff90fd81e7b-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/mboudiaf/TIM)|
 |[Few-shot Image Generation with Elastic Weight Consolidation](https://proceedings.neurips.cc/paper/2020/file/b6d767d2f8ed5d21a44b0e5886680cb9-Paper.pdf)|NIPS|`G`|-|
+|[Restoring Negative Information in Few-Shot Object
+Detection](https://proceedings.neurips.cc/paper/2020/file/240ac9371ec2671ae99847c3ae2e6384-Paper.pdf)|NIPS|`D`|[MXNet](https://github.com/yang-yk/NP-RepMet)|
+|[OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)|NIPS|`C`|[Tensorflow](https://github.com/twj-KAIST/OOD-MAML)|
 
 
 ### 2019
