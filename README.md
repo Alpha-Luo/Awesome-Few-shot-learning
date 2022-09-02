@@ -94,6 +94,10 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Restoring Negative Information in Few-Shot ObjectDetection](https://proceedings.neurips.cc/paper/2020/file/240ac9371ec2671ae99847c3ae2e6384-Paper.pdf)|NIPS|`D`|[MXNet](https://github.com/yang-yk/NP-RepMet)|
 |[OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)|NIPS|`C`|[Tensorflow](https://github.com/twj-KAIST/OOD-MAML)|
 |[CrossTransformers: spatially-aware few-shot transfer](https://proceedings.neurips.cc/paper/2020/file/fa28c6cdf8dd6f41a657c3d7caa5c709-Paper.pdf)|NIPS|`C`|[Tensorflow](https://github.com/google-research/meta-dataset/blob/main/meta_dataset/trainer.py)|
+|[Adversarially Robust Few-Shot Learning: A Meta-Learning Approach](https://proceedings.neurips.cc/paper/2020/file/cfee398643cbc3dc5eefc89334cacdc1-Paper.pdf)|NIPS|`C`|-|
+|[Few-shot Visual Reasoning with Meta-analogical Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/c39e1a03859f9ee215bc49131d0caf33-Paper.pdf)|NIPS|`Others`|-|
+|[Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels](https://proceedings.neurips.cc/paper/2020/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/BayesWatch/deep-kernel-transfer)|
+|[Interventional Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/yue-zhongqi/ifsl)|
 
 
 ### 2019
