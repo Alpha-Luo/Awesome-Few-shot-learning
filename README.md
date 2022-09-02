@@ -83,6 +83,11 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Few-shot Conformal Prediction with Auxiliary Tasks](http://proceedings.mlr.press/v139/fisch21a/fisch21a.pdf)|ICML|`C`|[code](https://github.com/ajfisch/few-shot-cp)|
 |[Learning a Universal Template for Few-shot Dataset Generalization](http://proceedings.mlr.press/v139/triantafillou21a/triantafillou21a.pdf)|ICML|`C`|[tensorflow](https://github.com/google-research/meta-dataset)|
 |[Addressing Catastrophic Forgetting in Few-Shot Problems](http://proceedings.mlr.press/v139/yap21a/yap21a.pdf)|ICML|`C`|[pytorch](https://github.com/pauchingyap/boml)|
+|[Few-Shot Object Detection via Association and DIscrimination](https://proceedings.neurips.cc/paper/2021/file/8a1e808b55fde9455cb3d8857ed88389-Paper.pdf)|NIPS|`D`|[Pytorch](https://github.com/yhcao6/FADI)|
+|[Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data(https://proceedings.neurips.cc/paper/2021/file/1d6408264d31d453d556c60fe7d0459e-Paper.pdf)|NIPS|`C`|[code](https://git.io/Jilgs)|
+|[On Episodes, Prototypical Networks, and Few-Shot Learning](https://proceedings.neurips.cc/paper/2021/file/cdfa4c42f465a5a66871587c69fcfa34-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/fiveai/on-episodes-fsl)|
+|[POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples](https://proceedings.neurips.cc/paper/2021/file/c91591a8d461c2869b9f535ded3e213e-Paper.pdf)|NIPS|`C`|-|
+|[Rectifying the Shortcut Learning of Background for Few-Shot Learning](https://proceedings.neurips.cc/paper/2021/file/6cfe0e6127fa25df2a0ef2ae1067d915-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/Frankluox/FewShotCodeBase)|
 
 
 ### 2020
