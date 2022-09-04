@@ -92,6 +92,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Realistic Evaluation of Transductive Few-Shot Learning](https://proceedings.neurips.cc/paper/2021/file/4d7a968bb636e25818ff2a3941db08c1-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/oveilleux/Realistic_Transductive_Few_Shot)|
 |[The Role of Global Labels in Few-Shot Classiﬁcation and How to Infer Them](https://proceedings.neurips.cc/paper/2021/file/e3b6fb0fd4df098162eede3313c54a8d-Paper.pdf)|NIPS|`C`|-|
 |[Learning to Learn Dense Gaussian Processes for Few-Shot Learning](https://proceedings.neurips.cc/paper/2021/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)|NIPS|`C`|-|
+|[Generalized and Discriminative Few-Shot Object Detection via SVD-Dictionary Enhancement](https://proceedings.neurips.cc/paper/2021/file/325995af77a0e8b06d1204a171010b3a-Paper.pdf)|NIPS|`D`|-|
 
 
 ### 2020
