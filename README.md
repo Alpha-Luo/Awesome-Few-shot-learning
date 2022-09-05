@@ -113,7 +113,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks](https://proceedings.mlr.press/v119/goldblum20a.html)|ICML|`C`|[Pytorch](https://github.com/goldblum/FeatureClustering)|
 |[XtarNet: Learning to Extract Task-Adaptive Representation  for Incremental Few-Shot Learning](http://proceedings.mlr.press/v119/yoon20b/yoon20b.pdf)|ICML|`C`|[Tensorflow](https://github.com/EdwinKim3069/XtarNet)|
 |[Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs](https://proceedings.mlr.press/v119/qu20a.html)|ICML|`Other`|-|
-
+|[Frustratingly Simple Few-Shot Object Detection](http://proceedings.mlr.press/v119/wang20j/wang20j.pdf)|ICML|`D`|[Pytorch](https://github.com/ucbdrive/few-shot-object-detection)|
 
 
 ### 2019
