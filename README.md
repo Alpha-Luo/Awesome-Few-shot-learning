@@ -114,6 +114,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[XtarNet: Learning to Extract Task-Adaptive Representation  for Incremental Few-Shot Learning](http://proceedings.mlr.press/v119/yoon20b/yoon20b.pdf)|ICML|`C`|[Tensorflow](https://github.com/EdwinKim3069/XtarNet)|
 |[Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs](https://proceedings.mlr.press/v119/qu20a.html)|ICML|`Other`|-|
 |[Frustratingly Simple Few-Shot Object Detection](http://proceedings.mlr.press/v119/wang20j/wang20j.pdf)|ICML|`D`|[Pytorch](https://github.com/ucbdrive/few-shot-object-detection)|
+|[META-DATASET: A DATASET OF DATASETS FOR LEARNING TO LEARN FROM FEW EXAMPLES](https://openreview.net/pdf?id=rkgAGAVKPr)|ICLR|`C`|[Tensorflow](github.com/google-research/meta-dataset)|
 
 
 ### 2019
