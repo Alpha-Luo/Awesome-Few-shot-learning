@@ -115,6 +115,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Few-shot Relation Extraction via Bayesian Meta-learning on Relation Graphs](https://proceedings.mlr.press/v119/qu20a.html)|ICML|`Other`|-|
 |[Frustratingly Simple Few-Shot Object Detection](http://proceedings.mlr.press/v119/wang20j/wang20j.pdf)|ICML|`D`|[Pytorch](https://github.com/ucbdrive/few-shot-object-detection)|
 |[META-DATASET: A DATASET OF DATASETS FOR LEARNING TO LEARN FROM FEW EXAMPLES](https://openreview.net/pdf?id=rkgAGAVKPr)|ICLR|`C`|[Tensorflow](github.com/google-research/meta-dataset)|
+|[A BASELINE FOR FEW-SHOT IMAGE CLASSIFICATION](https://openreview.net/pdf?id=rylXBkrYDS)|ICLR|`C`|-|
+|[A THEORETICAL ANALYSIS OF THE NUMBER OF SHOTS IN FEW-SHOT LEARNING](https://openreview.net/attachment?id=HkgB2TNYPS&name=original_pdf)|ICLR|`C`|-|
+|[CROSS-DOMAIN FEW-SHOT CLASSIFICATION VIA LEARNED FEATURE-WISE TRANSFORMATION](https://openreview.net/pdf?id=SJl5Np4tPr)|ICLR|`C`|[Pytorch](https://github.com/hytseng0509/CrossDomainFewShot)|
 
 
 ### 2019
