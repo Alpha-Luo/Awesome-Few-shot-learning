@@ -110,7 +110,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Interventional Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/yue-zhongqi/ifsl)|
 |[Few-shot Domain Adaptation by Causal Mechanism Transfer](https://proceedings.mlr.press/v119/teshima20a.html)|ICML|`G`|-|
 |[Laplacian Regularized Few-Shot Learning](https://proceedings.mlr.press/v119/ziko20a.html)|ICML|`C`|[Pytorch](https://github.com/imtiazziko/LaplacianShot)|
-|[Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks](https://proceedings.mlr.press/v119/goldblum20a.html)|ICML|`C`|[Pytorch](https://github.com/goldblum/ FeatureClustering)|
+|[Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks](https://proceedings.mlr.press/v119/goldblum20a.html)|ICML|`C`|[Pytorch](https://github.com/goldblum/FeatureClustering)|
 
 
 ### 2019
