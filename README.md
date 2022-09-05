@@ -109,6 +109,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels](https://proceedings.neurips.cc/paper/2020/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/BayesWatch/deep-kernel-transfer)|
 |[Interventional Few-Shot Learning](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)|NIPS|`C`|[Pytorch](https://github.com/yue-zhongqi/ifsl)|
 |[Few-shot Domain Adaptation by Causal Mechanism Transfer](https://proceedings.mlr.press/v119/teshima20a.html)|ICML|`G`|-|
+|[Laplacian Regularized Few-Shot Learning](https://proceedings.mlr.press/v119/ziko20a.html)|ICML|`C`|[Pytorch](https://github.com/imtiazziko/LaplacianShot)|
+
+
 
 ### 2019
 | Title                                                                                                                            | Source| Type    | Code |
