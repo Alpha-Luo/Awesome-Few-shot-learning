@@ -98,7 +98,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION](https://openreview.net/pdf?id=JWOiYxMG92s)|ICLR|`C`|[Pytorch](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)|
 |[ATTENTIONAL CONSTELLATION NETS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=vujTf_I8Kmc)|ICLR|`C`|-|
 |[DISENTANGLING 3D PROTOTYPICAL NETWORKS FOR FEW-SHOT CONCEPT LEARNING](https://openreview.net/pdf?id=-Lr-u0b42he)|ICLR|`Other`|[Pytorch](https://github.com/mihirp1998/Disentangling-3D-Prototypical-Nets)|
-
+|[SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES](https://openreview.net/pdf?id=O3Y56aqpChA)|ICLR|`C`|[Pytorch](https://github.com/cpphoo/STARTUP)|
 
 ### 2020
 | Title                                                                                                                            | Source| Type    | Code |
