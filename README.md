@@ -94,6 +94,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Learning to Learn Dense Gaussian Processes for Few-Shot Learning](https://proceedings.neurips.cc/paper/2021/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)|NIPS|`C`|-|
 |[Generalized and Discriminative Few-Shot Object Detection via SVD-Dictionary Enhancement](https://proceedings.neurips.cc/paper/2021/file/325995af77a0e8b06d1204a171010b3a-Paper.pdf)|NIPS|`D`|-|
 |[IEPT: INSTANCE-LEVEL AND EPISODE-LEVEL PRETEXT TASKS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=xzqLpqRzxLq)|ICLR|`C`|[Pytorch](https://github.com/rucmlcv/IEPT_FSL)|
+|[MELR: META-LEARNING VIA MODELING EPISODELEVEL RELATIONSHIPS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=D3PcGLdMx0)|ICLR|`C`|-|
 
 
 ### 2020
