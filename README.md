@@ -104,7 +104,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[TOWARDS FASTER AND STABILIZED GAN TRAINING FOR HIGH-FIDELITY FEW-SHOT IMAGE SYNTHESIS](https://openreview.net/pdf?id=1Fqg133qRaI)|ICLR|`G`|[Pytorch](https://github.com/odegeasslbc/FastGAN-pytorch)|
 |[REPURPOSING PRETRAINED MODELS FOR ROBUST OUT-OF-DOMAIN FEW-SHOT LEARNING](https://openreview.net/pdf?id=qkLMTphG5-h)|ICLR|`C`|[Pytorch](https://github.com/NamyeongK/USA_UFGSM/)|
 |[INCREMENTAL FEW-SHOT LEARNING VIA VECTOR QUANTIZATION IN DEEP EMBEDDED SPACE](https://openreview.net/pdf?id=3SV-ZePhnZM)|ICLR|`C`|-|
-|[METANORM: LEARNING TO NORMALIZE FEW-SHOT BATCHES ACROSS DOMAINS](https://openreview.net/pdf?id=9z_dNsC4B5t)|ICLR|`C`|[Pytorch](https://github.com/YDU-AI/MetaNorm)|
+|[METANORM: LEARNING TO NORMALIZE FEW-SHOT BATCHES ACROSS DOMAINS](https://openreview.net/pdf?id=9z_dNsC4B5t)|ICLR|`C`|[-](https://github.com/YDU-AI/MetaNorm)|
 
 
 ### 2020
