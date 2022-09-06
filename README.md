@@ -96,6 +96,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[IEPT: INSTANCE-LEVEL AND EPISODE-LEVEL PRETEXT TASKS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=xzqLpqRzxLq)|ICLR|`C`|[Pytorch](https://github.com/rucmlcv/IEPT_FSL)|
 |[MELR: META-LEARNING VIA MODELING EPISODELEVEL RELATIONSHIPS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=D3PcGLdMx0)|ICLR|`C`|-|
 |[FREE LUNCH FOR FEW-SHOT LEARNING: DISTRIBUTION CALIBRATION](https://openreview.net/pdf?id=JWOiYxMG92s)|ICLR|`C`|[Pytorch](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration)|
+|[ATTENTIONAL CONSTELLATION NETS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=vujTf_I8Kmc)|ICLR|`C`|-|
+
+
 
 ### 2020
 | Title                                                                                                                            | Source| Type    | Code |
