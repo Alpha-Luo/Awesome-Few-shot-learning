@@ -101,7 +101,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[SELF-TRAINING FOR FEW-SHOT TRANSFER ACROSS EXTREME TASK DIFFERENCES](https://openreview.net/pdf?id=O3Y56aqpChA)|ICLR|`C`|[Pytorch](https://github.com/cpphoo/STARTUP)|
 |[A UNIVERSAL REPRESENTATION TRANSFORMER LAYER FOR FEW-SHOT IMAGE CLASSIFICATION](https://openreview.net/pdf?id=04cII6MumYV)|ICLR|`C`|[Pytorch/Tensorflow](https://github.com/liulu112601/URT)|
 |[CONCEPT LEARNERS FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=eJIJF3-LoZO)|ICLR|`C`|[Pytorch](https://github.com/snap-stanford/comet)|
-
+|[TOWARDS FASTER AND STABILIZED GAN TRAINING FOR HIGH-FIDELITY FEW-SHOT IMAGE SYNTHESIS](https://openreview.net/pdf?id=1Fqg133qRaI)|ICLR|`G`|[Pytorch](https://github.com/odegeasslbc/FastGAN-pytorch)|
 
 
 ### 2020
