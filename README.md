@@ -148,7 +148,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 |[OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll)|ICLR|`C`|[Pytorch](https://github.com/twitter/meta-learning-lstm)|
-
+|[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf)|ICML|`C`|[Tensorflow](https://github.com/cbfinn/maml)|
 
 ### 2016
 | Title                                                                                                                            | Source| Type    | Code |
