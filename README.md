@@ -143,6 +143,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [Low-shot learning with large-scale diffusion](https://openaccess.thecvf.com/content_cvpr_2018/papers/Douze_Low-Shot_Learning_With_CVPR_2018_paper.pdf)                                                                                                                                                                                                         | CVPR                | `G`     | -                                                                                            |
+|[Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)|CVPR|`C`|
 
 ### 2017
 | Title                                                                                                                            | Source| Type    | Code |
