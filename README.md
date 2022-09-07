@@ -153,7 +153,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2016
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-
+|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.pdf)|ICML|`C`|-|
 
 
 
