@@ -147,7 +147,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2017
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-|[OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll)|CVPR|`C`|[Pytorch](https://github.com/twitter/meta-learning-lstm)|
+|[OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll)|ICLR|`C`|[Pytorch](https://github.com/twitter/meta-learning-lstm)|
 
 
 ### 2016
