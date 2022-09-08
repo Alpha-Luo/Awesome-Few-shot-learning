@@ -150,6 +150,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 |[OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll)|ICLR|`C`|[Pytorch](https://github.com/twitter/meta-learning-lstm)|
 |[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf)|ICML|`C`|[Tensorflow](https://github.com/cbfinn/maml)|
+|[Low-shot Visual Recognition by Shrinking and Hallucinating Features](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)|CVPR|`G`|[Pytorch](https://github.com/facebookresearch/low-shot-shrink-hallucinate)|
 
 ### 2016
 | Title                                                                                                                            | Source| Type    | Code |
