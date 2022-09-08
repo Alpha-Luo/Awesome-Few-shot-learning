@@ -136,7 +136,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 ### 2019
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-
+|[Few-shot Learning via Saliency-guided Hallucination of Samples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Few-Shot_Learning_via_Saliency-Guided_Hallucination_of_Samples_CVPR_2019_paper.pdf)|CVPR|`G`|-|
 
 
 ### 2018
@@ -145,6 +145,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | [Low-shot learning with large-scale diffusion](https://openaccess.thecvf.com/content_cvpr_2018/papers/Douze_Low-Shot_Learning_With_CVPR_2018_paper.pdf)                                                                                                                                                                                                         | CVPR                | `G`     | -                                                                                            |
 |[Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)|CVPR|`C`|
 |[∆-encoder: an effective sample synthesis method for few-shot object recognition](https://proceedings.neurips.cc/paper/2018/file/1714726c817af50457d810aae9d27a2e-Paper.pdf)|NIPS|`G`|[Tensorflow](https://github.com/EliSchwartz/DeltaEncoder)|
+
+
 
 ### 2017
 | Title                                                                                                                            | Source| Type    | Code |
