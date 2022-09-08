@@ -155,7 +155,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 |[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.pdf)|ICML|`C`|-|
-|[Learning feed-forward one-shot learners](https://proceedings.neurips.cc/paper/2016/file/839ab46820b524afda05122893c2fe8e-Paper.pdf)|NIPS|-|
+|[Learning feed-forward one-shot learners](https://proceedings.neurips.cc/paper/2016/file/839ab46820b524afda05122893c2fe8e-Paper.pdf)|NIPS|`C`|-|
 
 
 ## Related Repo
