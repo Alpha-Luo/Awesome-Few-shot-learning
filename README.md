@@ -137,6 +137,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | Title                                                                                                                            | Source| Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 |[Few-shot Learning via Saliency-guided Hallucination of Samples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Few-Shot_Learning_via_Saliency-Guided_Hallucination_of_Samples_CVPR_2019_paper.pdf)|CVPR|`G`|-|
+|[TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_TAFE-Net_Task-Aware_Feature_Embeddings_for_Low_Shot_Learning_CVPR_2019_paper.pdf)|CVPR|`C`|[Pytorch](https://github.com/ucbdrive/tafe-net)|
 
 
 ### 2018
