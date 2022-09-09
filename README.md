@@ -64,7 +64,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 | [SCHA-VAE: Hierarchical Context Aggregation for Few-Shot Generation](https://proceedings.mlr.press/v162/giannone22a/giannone22a.pdf)            | ICML               | `C`     | [Pytorch](https://github.com/georgosgeorgos/hierarchical-few-shot-generative-models)                                                                 |
 |[HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://proceedings.mlr.press/v162/zhmoginov22a/zhmoginov22a.pdf)|ICML               | `C`     | [Pytorch](https://github.com/google-research/google-research/tree/master/hypertransformer)                                                 |
 |[Channel Importance Matters in Few-Shot Image Classification](https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)|ICML               | `C`     | [Pytorch](https://github.com/Frankluox/Channel_Importance_FSL)                                                                                        |
-
+|[SUBSPACE REGULARIZERS FOR FEW-SHOT CLASS INCREMENTAL LEARNING](https://openreview.net/pdf?id=boJy41J-tnQ)|ICLR|`C`|[Pytorch](https://github.com/feyzaakyurek/subspace-reg)|
 
  
 ### 2021
