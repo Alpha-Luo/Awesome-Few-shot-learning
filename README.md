@@ -70,6 +70,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[ON THE IMPORTANCE OF FIRTH BIAS REDUCTION IN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=DNRADop4ksB)|ICLR|`C`|[Pytorch](https://github.com/ehsansaleh/firth_bias_reduction)|
 |[GENERALIZING FEW-SHOT NAS WITH GRADIENT MATCHING](https://openreview.net/pdf?id=_jMtny3sMKU)|ICLR|`Other`|[Pytorch](https://github.com/skhu101/GM-NAS)|
 |[TASK AFFINITY WITH MAXIMUM BIPARTITE MATCHING IN FEW-SHOT LEARNING](https://openreview.net/pdf?id=u2GZOiUTbt)|ICLR|`C`|-|
+|[HOW TO TRAIN YOUR MAML TO EXCEL IN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=49h_IkpJtaE)|ICLR|`C`|[Pytorch](https://github.com/Han-Jia/UNICORN-MAML)|
  
 ### 2021
 | Title                                                                                                                            | Source| Type    | Code |
