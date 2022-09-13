@@ -66,6 +66,9 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Channel Importance Matters in Few-Shot Image Classification](https://proceedings.mlr.press/v162/luo22c/luo22c.pdf)|ICML               | `C`     | [Pytorch](https://github.com/Frankluox/Channel_Importance_FSL)                                                                                        |
 |[SUBSPACE REGULARIZERS FOR FEW-SHOT CLASS INCREMENTAL LEARNING](https://openreview.net/pdf?id=boJy41J-tnQ)|ICLR|`C`|[Pytorch](https://github.com/feyzaakyurek/subspace-reg)|
 |[CONFESS: A FRAMEWORK FOR SINGLE SOURCE CROSS-DOMAIN FEW-SHOT LEARNING](https://openreview.net/pdf?id=zRJu6mU2BaE)|ICLR|`C`|-|
+|[HIERARCHICAL VARIATIONAL MEMORY FOR FEW-SHOT LEARNING ACROSS DOMAINS](https://openreview.net/pdf?id=i3RI65sR7N)|ICLR|`C`|[Tensorflow](https://github.com/YDU-uva/HierMemory)|
+
+
  
 ### 2021
 | Title                                                                                                                            | Source| Type    | Code |
