@@ -67,7 +67,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[SUBSPACE REGULARIZERS FOR FEW-SHOT CLASS INCREMENTAL LEARNING](https://openreview.net/pdf?id=boJy41J-tnQ)|ICLR|`C`|[Pytorch](https://github.com/feyzaakyurek/subspace-reg)|
 |[CONFESS: A FRAMEWORK FOR SINGLE SOURCE CROSS-DOMAIN FEW-SHOT LEARNING](https://openreview.net/pdf?id=zRJu6mU2BaE)|ICLR|`C`|-|
 |[HIERARCHICAL VARIATIONAL MEMORY FOR FEW-SHOT LEARNING ACROSS DOMAINS](https://openreview.net/pdf?id=i3RI65sR7N)|ICLR|`C`|[Tensorflow](https://github.com/YDU-uva/HierMemory)|
-
+|[ON THE IMPORTANCE OF FIRTH BIAS REDUCTION IN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=DNRADop4ksB)|ICLR|`C`|[Pytorch](https://github.com/ehsansaleh/firth_bias_reduction)|
 
  
 ### 2021
