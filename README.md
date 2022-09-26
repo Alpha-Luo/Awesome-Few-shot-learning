@@ -142,6 +142,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[A THEORETICAL ANALYSIS OF THE NUMBER OF SHOTS IN FEW-SHOT LEARNING](https://openreview.net/attachment?id=HkgB2TNYPS&name=original_pdf)|ICLR|`C`|-|
 |[CROSS-DOMAIN FEW-SHOT CLASSIFICATION VIA LEARNED FEATURE-WISE TRANSFORMATION](https://openreview.net/pdf?id=SJl5Np4tPr)|ICLR|`C`|[Pytorch](https://github.com/hytseng0509/CrossDomainFewShot)|
 |[Associative Alignment for Few-Shot Image Classification](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_2.pdf)|ECCV|`C`|[Pytorch](https://lvsn.github.io/associative-alignment/)|
+|[A Broader Study of Cross-Domain Few-Shot Learning](https://link.springer.com/content/pdf/10.1007/978-3-030-58583-9_8.pdf)|ECCV|`C`|[Pytorch](https://github.com/IBM/cdfsl-benchmark)|
 
 ### 2019
 | Title                                                                                                                            | Source| Type    | Code |
