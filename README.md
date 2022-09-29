@@ -118,6 +118,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[INCREMENTAL FEW-SHOT LEARNING VIA VECTOR QUANTIZATION IN DEEP EMBEDDED SPACE](https://openreview.net/pdf?id=3SV-ZePhnZM)|ICLR|`C`|-|
 |[METANORM: LEARNING TO NORMALIZE FEW-SHOT BATCHES ACROSS DOMAINS](https://openreview.net/pdf?id=9z_dNsC4B5t)|ICLR|`C`|[-](https://github.com/YDU-AI/MetaNorm)|
 |[FEW-SHOT LEARNING VIA LEARNING THE REPRESENTATION, PROVABLY](https://openreview.net/pdf?id=pW2Q2xLwIMD)|ICLR|`C`|-|
+|[BOIL: TOWARDS REPRESENTATION CHANGE FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=umIdUL8rMH)|ICLR|`C`|-|
 
 
 ### 2020
