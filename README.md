@@ -120,7 +120,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[METANORM: LEARNING TO NORMALIZE FEW-SHOT BATCHES ACROSS DOMAINS](https://openreview.net/pdf?id=9z_dNsC4B5t)|ICLR|`C`|[-](https://github.com/YDU-AI/MetaNorm)|
 |[FEW-SHOT LEARNING VIA LEARNING THE REPRESENTATION, PROVABLY](https://openreview.net/pdf?id=pW2Q2xLwIMD)|ICLR|`C`|-|
 |[BOIL: TOWARDS REPRESENTATION CHANGE FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=umIdUL8rMH)|ICLR|`C`|-|
-
+|[Cross-Domain Few-Shot Classification via Adversarial Task Augmentation](https://www.ijcai.org/proceedings/2021/149)|IJCAI|`C`|[Pytorch](https://github.com/Haoqing-Wang/CDFSL-ATA)|
+|[Explanation-Guided Training for Cross-Domain Few-Shot Classification](https://ieeexplore.ieee.org/document/9412941/)|ICPR|`C`|[Pytorch](https://github.com/SunJiamei/few-shot-lrp-guided)|
 
 ### 2020
 | Title                                                                                                                            | Source| Type    | Code |
