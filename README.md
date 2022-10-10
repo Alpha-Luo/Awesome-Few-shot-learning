@@ -147,6 +147,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[A BASELINE FOR FEW-SHOT IMAGE CLASSIFICATION](https://openreview.net/pdf?id=rylXBkrYDS)|ICLR|`C`|-|
 |[A THEORETICAL ANALYSIS OF THE NUMBER OF SHOTS IN FEW-SHOT LEARNING](https://openreview.net/attachment?id=HkgB2TNYPS&name=original_pdf)|ICLR|`C`|-|
 |[CROSS-DOMAIN FEW-SHOT CLASSIFICATION VIA LEARNED FEATURE-WISE TRANSFORMATION](https://openreview.net/pdf?id=SJl5Np4tPr)|ICLR|`C`|[Pytorch](https://github.com/hytseng0509/CrossDomainFewShot)|
+|[LEARNING TO BALANCE: BAYESIAN META-LEARNING FOR IMBALANCED AND OUT-OF-DISTRIBUTION TASKS](https://openreview.net/pdf/64280d376d87b0ac0bb11499e1f5ecf2b3822784.pdf)|ICLR|`C`|[Tensorflow](https://github.com/haebeom-lee/l2b)|
 |[Associative Alignment for Few-Shot Image Classification](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_2.pdf)|ECCV|`C`|[Pytorch](https://lvsn.github.io/associative-alignment/)|
 |[A Broader Study of Cross-Domain Few-Shot Learning](https://link.springer.com/content/pdf/10.1007/978-3-030-58583-9_8.pdf)|ECCV|`C`|[Pytorch](https://github.com/IBM/cdfsl-benchmark)|
 
