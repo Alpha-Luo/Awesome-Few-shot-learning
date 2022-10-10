@@ -72,6 +72,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[TASK AFFINITY WITH MAXIMUM BIPARTITE MATCHING IN FEW-SHOT LEARNING](https://openreview.net/pdf?id=u2GZOiUTbt)|ICLR|`C`|-|
 |[HOW TO TRAIN YOUR MAML TO EXCEL IN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=49h_IkpJtaE)|ICLR|`C`|[Pytorch](https://github.com/Han-Jia/UNICORN-MAML)|
 |[SWITCH TO GENERALIZE: DOMAIN-SWITCH LEARNING FOR CROSS-DOMAIN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=H-iABMvzIc)|ICLR|`C`|-|
+|[HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](http://arxiv.org/abs/2201.04182)|ICLR|`C`|[Tensorflow](https://github.com/google-research/google-research/tree/master/hypertransformer)|
 |[Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/document/9720733/)|TPAMI|`C`|[Dataset](http://123.57.42.89/dataset-bias/dataset-bias.html)|
 |[Task-Level Self-Supervision for Cross-Domain Few-Shot Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20230)|AAAI|`C`|-|
  
