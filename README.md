@@ -73,6 +73,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[HOW TO TRAIN YOUR MAML TO EXCEL IN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=49h_IkpJtaE)|ICLR|`C`|[Pytorch](https://github.com/Han-Jia/UNICORN-MAML)|
 |[SWITCH TO GENERALIZE: DOMAIN-SWITCH LEARNING FOR CROSS-DOMAIN FEW-SHOT CLASSIFICATION](https://openreview.net/pdf?id=H-iABMvzIc)|ICLR|`C`|-|
 |[WANDERING WITHIN A WORLD: ONLINE CONTEXTUALIZED FEW-SHOT LEARNING](https://openreview.net/pdf?id=oZIvHV04XgC)|ICLR|`C`|[Code](https://github.com/renmengye/oc-fewshot-public)|
+|[BAYESIAN FEW-SHOT CLASSIFICATION WITH ONE-VS-EACH P  ́ OLYA-GAMMA AUGMENTED GAUSSIAN PROCESSES](https://openreview.net/pdf?id=lgNx56yZh8a)|ICLR|`C`|[Pytorch](https://github.com/jakesnell/ove-polya-gamma-gp)|
 |[Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/document/9720733/)|TPAMI|`C`|[Dataset](http://123.57.42.89/dataset-bias/dataset-bias.html)|
 |[Task-Level Self-Supervision for Cross-Domain Few-Shot Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20230)|AAAI|`C`|-|
  
