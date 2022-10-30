@@ -77,6 +77,8 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Dataset Bias in Few-shot Image Recognition](https://ieeexplore.ieee.org/document/9720733/)|TPAMI|`C`|[Dataset](http://123.57.42.89/dataset-bias/dataset-bias.html)|
 |[Task-Level Self-Supervision for Cross-Domain Few-Shot Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20230)|AAAI|`C`|-|
 |[Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark](https://assets.amazon.science/5e/31/045dac614048a9f89b5d4ed8236d/rethinking-few-shot-object-detection-on-a-multi-domain-benchmark.pdf)|ECCV|`D`|[code](https://github.com/amazon-research/few-shot-object-detection-benchmark)|
+|[Self-Support Few-Shot Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790689.pdf)|ECCV|`S`|[Pytorch](https://github.com/fanq15/SSP)|
+
  
 ### 2021
 | Title                                                                                                                            | Source| Type    | Code |
