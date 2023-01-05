@@ -79,6 +79,7 @@ This repo provides an up-to-date list of progress made in Few-shot Learning for 
 |[Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark](https://assets.amazon.science/5e/31/045dac614048a9f89b5d4ed8236d/rethinking-few-shot-object-detection-on-a-multi-domain-benchmark.pdf)|ECCV|`D`|[code](https://github.com/amazon-research/few-shot-object-detection-benchmark)|
 |[Self-Support Few-Shot Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790689.pdf)|ECCV|`S`|[Pytorch](https://github.com/fanq15/SSP)|
 |[Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/pdf/2207.09519.pdf)|ECCV|`C`|[Pytorch](https://github.com/gaopengcuhk/Tip-Adapter)|
+|[WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750001.pdf)|ECCV|`G`|[Pytorch](https://github.com/kobeshegu/ECCV2022_WaveGAN)|
 
  
 ### 2021
